@@ -1,0 +1,21 @@
+{
+  "name": "SoundBites Tasmania",
+  "short_name": "SoundBites",
+  "description": "Classic rock and R&B band based in Hobart, Tasmania",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#d4844a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

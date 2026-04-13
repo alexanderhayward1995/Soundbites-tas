@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soundbites-tas.com/sitemap.xml
